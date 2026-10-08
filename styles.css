@@ -56,3 +56,15 @@ h1 {
   padding:0
   text-align: center;
 }
+/* AI-generated code starts here */
+/* Student prompt: "Make the recipe photo smaller and more natural on the page, centered under the intro text." */
+.recipe-photo {
+  display: block;
+  width: min(70vw, 300px);
+  max-width: 300px;
+  height: auto;
+  margin: 1.5em auto 2em;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(50, 32, 26, 0.12);
+}
+/* AI-generated code ends here */
