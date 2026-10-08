@@ -1,6 +1,70 @@
 /* Your styles go here! */
-h1 {
+/* AI-generated code starts here */
+/* Student prompt: "Make the general background of the page #f6ecd9." */
+body {
+  background-color: #f6ecd9;
+}
+/* AI-generated code ends here */
+h1, h2 {
+  /* AI-generated code starts here */
+  /* Student prompt: "Insert Libre Caslon Condensed for all of my <h1> titles." */
+  /* Student prompt: "Give <h2> the same font as <h1>." */
+  font-family: "Libre Caslon Condensed", serif;
+  /* AI-generated code ends here */
   /* Demo style -- remove me and write your own */
   font-size: 48px;
-  color: purple;
+  color: #f0e6d0;
 }
+/* AI-generated code starts here */
+/* Student prompt: "Color the <h3> titles with a light pastel green." */
+h3 {
+  color: #71885b;
+}
+/* AI-generated code ends here */
+/* AI-generated code starts here */
+/* Student prompt: "Color the title, Ingredients, and Bake with #a4302f." */
+/* Student prompt: "Keep the apple cinnamon title the same as it was before." */
+/* Student prompt: "Title Icing with the color #a4302f." */
+.ingredients-title, .bake-title, .icing-title {
+  color: #a4302f;
+}
+/* AI-generated code ends here */
+/* AI-generated code starts here */
+/* Student prompt: "Make a border with all the checkboxes inside Ingredients." */
+/* Student prompt: "Use rounded corners, a gold line near the margin, and a lighter background for Ingredients." */
+.ingredients-box {
+  border: 2px solid #c9a45c;
+  border-radius: 12px;
+  margin: 1em;
+  background-color: #fffaf0;
+  padding: 1em;
+}
+/* AI-generated code ends here */
+header {
+  /* AI-generated code starts here */
+  /* Student prompt: "Make the header background #33201a, with a slightly redder #5a2c22 glow." */
+  background-color: #33201a;
+  background-image: radial-gradient(circle at center, #5a2c22 0%, #33201a 75%);
+  /* AI-generated code ends here */
+  height: 20vh;
+  padding: 32px 8px;
+  text-align: center;
+  color: #fffaf0
+}
+h1 {
+  margin-block:0;
+  padding:0
+  text-align: center;
+}
+/* AI-generated code starts here */
+/* Student prompt: "Make the recipe photo smaller and more natural on the page, centered under the intro text." */
+.recipe-photo {
+  display: block;
+  width: min(70vw, 300px);
+  max-width: 300px;
+  height: auto;
+  margin: 1.5em auto 2em;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(50, 32, 26, 0.12);
+}
+/* AI-generated code ends here */
