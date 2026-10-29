@@ -25,7 +25,8 @@ h3 {
 /* Student prompt: "Color the title, Ingredients, and Bake with #a4302f." */
 /* Student prompt: "Keep the apple cinnamon title the same as it was before." */
 /* Student prompt: "Title Icing with the color #a4302f." */
-.ingredients-title, .bake-title, .icing-title {
+/* Student prompt: "Change the color of the plate food to the same color as the icing header." */
+.ingredients-title, .bake-title, .icing-title, .plate-food-title {
   color: #a4302f;
 }
 /* AI-generated code ends here */
